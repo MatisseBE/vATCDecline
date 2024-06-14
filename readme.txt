@@ -6,4 +6,4 @@ the active user might reach this number in the second month while for the inacti
 
 However, do NOT stress the vatsim api with too many calls. 
 
-![preview](ttps://media.discordapp.net/attachments/1046473434823135252/1251164149736538182/image.png?ex=666d94ea&is=666c436a&hm=7271a5fcf05becb38427ffb2bb5aa2d3328695d13ebbc2466c19ee23021fbb76&=&format=webp&quality=lossless&width=1423&height=671)
+![preview](https://media.discordapp.net/attachments/1046473434823135252/1251164149736538182/image.png?ex=666d94ea&is=666c436a&hm=7271a5fcf05becb38427ffb2bb5aa2d3328695d13ebbc2466c19ee23021fbb76&=&format=webp&quality=lossless&width=1423&height=671)
