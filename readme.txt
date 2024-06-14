@@ -6,4 +6,4 @@ the active user might reach this number in the second month while for the inacti
 
 However, do NOT stress the vatsim api with too many calls. 
 
-![image](https://github.com/MatisseBE/vATCDecline/assets/51272243/594dbf46-f1ea-4f0a-bda8-b0fe77317536)
+Preview: https://github.com/MatisseBE/vATCDecline/assets/51272243/594dbf46-f1ea-4f0a-bda8-b0fe77317536
